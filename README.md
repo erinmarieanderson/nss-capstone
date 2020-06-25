@@ -1,6 +1,12 @@
 # nss-capstone
 A PROPOSAL TO UPDATE BOSTON MARATHON QUALIFYING TIMES USING AGE-GRADING
 
+Links:
+Loom presentation  https://www.loom.com/share/b0be44a78b3c40bca0f9d0d236af5a6c
+Powerpoint presentation https://drive.google.com/file/d/1-eBuBv7E3lG9uOdQGyqvxFfpAp6zik8v/view?usp=sharing
+Class website https://nss-data-analytics-cohort-2.github.io/
+
+
 About me:
 Graduate of Dartmouth College and Boston College Law School
 Practiced law for six years representing whistleblowers alleging fraud against the government
