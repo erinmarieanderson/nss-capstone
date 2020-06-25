@@ -2,7 +2,7 @@
 A PROPOSAL TO UPDATE BOSTON MARATHON QUALIFYING TIMES USING AGE-GRADING
 
 Links: 
-Loom presentation  https://www.loom.com/share/b0be44a78b3c40bca0f9d0d236af5a6c
+Loom presentation h ttps://www.loom.com/share/b0be44a78b3c40bca0f9d0d236af5a6c>
 
 Powerpoint presentation https://drive.google.com/file/d/1-eBuBv7E3lG9uOdQGyqvxFfpAp6zik8v/view?usp=sharing
 
