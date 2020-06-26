@@ -2,8 +2,8 @@
 A PROPOSAL TO UPDATE BOSTON MARATHON QUALIFYING TIMES USING AGE-GRADING
 
 Links:
-Loom presentation  https://www.loom.com/share/b0be44a78b3c40bca0f9d0d236af5a6c
-Powerpoint presentation https://drive.google.com/file/d/1-eBuBv7E3lG9uOdQGyqvxFfpAp6zik8v/view?usp=sharing
+Video presentation https://www.loom.com/share/fb89c095f0794deca4e2e06a0beac236
+
 Class website https://nss-data-analytics-cohort-2.github.io/
 
 
@@ -17,7 +17,7 @@ Analyze 2020 proposed age grade standards for the marathon.
 Look at standards in real world context (e.g. Boston Marathon 2019).
 Check validity of age-grading system.
 
- What I found:
+What I found:
 Age-grading standards do not need to be fixed; Boston Marathon qualifying times do.
 Boston Marathon qualifying times are unequal across gender & ages.
 
