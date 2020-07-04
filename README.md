@@ -4,6 +4,9 @@
 
 [Nashville Software School, Data Analytics class website](https://nss-data-analytics-cohort-2.github.io/)
 
+### Attribution
+-The following project uses the work of Alan L. Jones (@AlanLyttonJones), accessible at his Github repository ["Age-Grade-Tables"](https://github.com/AlanLyttonJones/Age-Grade-Tables) (previously found, in part, at [runscore.com](https://www.runscore.com/Alan/AgeGrade.html)), which is licensed by [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ### About Me
 - Graduate of Dartmouth College and Boston College Law School.
 - Practiced law for six years representing whistleblowers alleging fraud against the government.
