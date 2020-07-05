@@ -16,8 +16,8 @@
 - June 2020 graduate of Data Analytics Bootcamp, Nashville Software School.
 
 ### Initial Goals
-- Analyze 2020 proposed age grade standards for the marathon 
-  * Intended on (and began) reverse-engineering 2015 standards using current single-age marathon records (arrs.run); ended up using Alan Jones' (@AlanLyttonJones) work after discovering his Age-Grade-Tables repository on Github on or about 6/9/20.
+- Analyze 2020 age grade standards for the marathon
+  * Intended on (and began) reverse-engineering 2015 standards using current single-age marathon records (arrs.run); ended up using Alan Jones' (@AlanLyttonJones) work after discovering his Age-Grade-Tables repository on Github on or about 6/9/20; 2020 standards approved on 5/20/20.
 - Look at age standards in real world context (start with most recent Boston Marathon results (2019)) and go from there).
 - Check validity of age-grading system for the marathon.
 
