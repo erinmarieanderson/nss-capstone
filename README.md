@@ -7,6 +7,7 @@
 ### Attribution
 - The following project uses the work of Alan L. Jones (@AlanLyttonJones), accessible at his Github repository ["Age-Grade-Tables"](https://github.com/AlanLyttonJones/Age-Grade-Tables) (previously found, in part, at [runscore.com](https://www.runscore.com/Alan/AgeGrade.html)), which is licensed by [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
   * The Age-Grade-Tables were approved by the USATF Masters Long Distance Running Committee on May 20, 2020.
+- Specifically, anytime I reference a "Road Weights" worksheet, I am using Alan's work.  
 
 ### About Me
 - Graduate of Dartmouth College and Boston College Law School.
@@ -15,8 +16,8 @@
 - June 2020 graduate of Data Analytics Bootcamp, Nashville Software School.
 
 ### Initial Goals
-- Analyze 2020 proposed age grade standards for the marathon 
-  * Intended on (and began) reverse-engineering 2015 standards using current single-age marathon records (arrs.run); ended up using Alan Jones' (@AlanLyttonJones) work after discovering his Age-Grade-Tables repository on Github on or about 6/9/20.
+- Analyze 2020 age grade standards for the marathon
+  * Intended on (and began) reverse-engineering 2015 standards using current single-age marathon records (arrs.run); ended up using Alan Jones' (@AlanLyttonJones) work after discovering his Age-Grade-Tables repository on Github on or about 6/9/20; 2020 standards approved on 5/20/20.
 - Look at age standards in real world context (start with most recent Boston Marathon results (2019)) and go from there).
 - Check validity of age-grading system for the marathon.
 
