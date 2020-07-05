@@ -7,6 +7,7 @@
 ### Attribution
 - The following project uses the work of Alan L. Jones (@AlanLyttonJones), accessible at his Github repository ["Age-Grade-Tables"](https://github.com/AlanLyttonJones/Age-Grade-Tables) (previously found, in part, at [runscore.com](https://www.runscore.com/Alan/AgeGrade.html)), which is licensed by [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
   * The Age-Grade-Tables were approved by the USATF Masters Long Distance Running Committee on May 20, 2020.
+- Specifically, anytime I reference a "Road Weights" worksheet, I am using Alan's work.  
 
 ### About Me
 - Graduate of Dartmouth College and Boston College Law School.
